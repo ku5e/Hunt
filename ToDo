@@ -1,2 +1,13 @@
 TODO
 
+Copy the following code to your IDE and run it
+
+
+==============================================
+import this
+
+x = ['hello', 'cruel', 'world']
+print(*x)
+
+
+==============================================
